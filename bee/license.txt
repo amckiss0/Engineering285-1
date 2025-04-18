@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bee
+* source:	https://sketchfab.com/3d-models/bee-57415c1f5528458ca39590f2157ffa69
+* author:	Chris Gonzalez (https://sketchfab.com/ChrisGonzo)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bee" (https://sketchfab.com/3d-models/bee-57415c1f5528458ca39590f2157ffa69) by Chris Gonzalez (https://sketchfab.com/ChrisGonzo) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
